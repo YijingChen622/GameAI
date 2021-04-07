@@ -8,8 +8,8 @@ The robot cannot push more than one snowball at a time. If two snowballs are in 
 Each movement is of equal cost. Whether or not the robot is pushing a snowball does not change the cost.
 The goal is achieved when there is a stack of three snowballs on the game board and in the destination spot. This stack must have a large snowball on the bottom, a medium snowball in the middle, and a small snowball at the top.
 
-**solution.py	**
-This contains heuristics and anytime algorithms.
+**solution.py**
+Where all of your heuristics and anytime algorithms will reside.
 
 **search.py**
 This contains default implementations of search algorithms discussed in class.
